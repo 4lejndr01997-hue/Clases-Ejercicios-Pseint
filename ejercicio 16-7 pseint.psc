@@ -9,7 +9,7 @@ Algoritmo sin_titulo
 	Leer numero2
 	Para contador<-1 Hasta 10 Con Paso 1 Hacer
 		multiplicacion = numero1*numero2
-		 acumulo = (multiplicacion*1*2)
+		 acumulo =acumulo+ (numero1*numero2)
 		Escribir "el numero final del proceso es " , acumulo
 	FinPara
 FinAlgoritmo
