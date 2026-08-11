@@ -14,12 +14,12 @@ Algoritmo segundo_ejercicio_funciones_mate
 	Escribir ' el seno del numero es ', sen(num1)
 	Escribir ' el coseno del numero es ', cos(num1)
 	Escribir ' la tangente del numero es ', tan(num1)
-	Si num1<-1 O num1>1 Entonces
+	Si num1<-1 Y num1>1 Entonces
 		Escribir ' no se puede realizar esta operacion '
 	SiNo
 		Escribir ' el arcoseno del numero es ', asen(num1)
 	FinSi
-	Si num1>=-1 O num1<=1 Entonces
+	Si num1>=-1 Y num1<=1 Entonces
 		Escribir ' no se puede realizar la operacion '
 	SiNo
 		Escribir ' el arcocoseno del numero es ', acos(num1)
