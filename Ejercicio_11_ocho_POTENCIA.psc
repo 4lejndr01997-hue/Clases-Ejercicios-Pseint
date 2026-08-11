@@ -6,11 +6,11 @@ Algoritmo Ejercicio_11_ocho_POTENCIA
 	Definir num1 Como Entero
 	Definir num2 Como Entero
 	Definir resultado Como Entero
-	imprimir "le solicito un numero"
-	leer num1
-	imprimir "le pido ahora otro numero para potenciar al otro numero"
-	leer num2
+	Imprimir "le solicito un numero"
+	Leer num1
+	Imprimir "le pido ahora otro numero para potenciar al otro numero"
+	Leer num2
 	resultado = num1^num2
-	imprimir "y el Resultado de la potencia es " ,resultado
+	Imprimir "y el Resultado de la potencia es " ,resultado
 	
 FinAlgoritmo
