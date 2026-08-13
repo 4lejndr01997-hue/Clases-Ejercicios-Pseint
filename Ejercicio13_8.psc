@@ -1,11 +1,11 @@
 Algoritmo Ejercicio13_8
-	// crear un programa de una calculadora, donde tendremos un menu de opciones
+	// crear un programa de una calculadora, donde tendremos un menu de opciones;
 	// 1) sumar
 	// 2) restar
-	// 3))multiplicar
+	// 3) multiplicar
 	// 4) dividir
 	// 5) mostrar el resto de una division (modulo)
-	// 0)salir
+	// 0) salir
 	// cuando se seleccione una opcion.. el programa debe solicitar al usuario los valores numericos,(2 numeros),realizar la operacion
 	// e imprimir sus resultados,luego volver a mostrar el menu de opciones 
 	// la carga finaliza dando la opcion "o"
@@ -19,7 +19,7 @@ Algoritmo Ejercicio13_8
 		Si opciones=0 Entonces
 			Escribir "se termina el programa"
 		SiNo
-			Según opciones Hacer
+			SegÃºn opciones Hacer
 				1:
 					resultado <- num1+num2
 					Escribir ' El Resultado de la operacion es ', resultado
@@ -35,7 +35,7 @@ Algoritmo Ejercicio13_8
 				5:
 					resultado <- num1 MOD num2
 					Escribir ' El Resultado de la operacion es ', resultado
-			FinSegún
+			FinSegÃºn
 			Escribir ' Ahora le solicito el primer numero '
 			Leer num1
 			Escribir ' Ahora le pido el segundo numero '
