@@ -1,7 +1,7 @@
 Algoritmo SegundoEjercicioDel_3_deSeptember
 	
 	// crear un codigo,donde se ingresen X elementos
-	// a un vector, el tamaño del vector debe ser ingresado por teclado
+	// a un vector, el tamaÃ±o del vector debe ser ingresado por teclado
 	// al finalizar mostrar todos los elementos del vector
 	
 	Definir numeroIngresado Como Entero
@@ -17,5 +17,9 @@ Algoritmo SegundoEjercicioDel_3_deSeptember
 		Leer numeroIngresado		
 		numeroIngresado = vectorEnteros(tamano)
 	FinPara	
-	
+
+	Limpiar pantalla
+
+Para contador 1 Hasta tamano Con Paso 1 Hacer
+ Escribir vectorEnteroa(contador)
 FinAlgoritmo
