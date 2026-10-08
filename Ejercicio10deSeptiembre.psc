@@ -1,11 +1,11 @@
 Algoritmo Ejercicio10deSeptiembre
-	// crear un programa donde se almacenen numeros en un vector,donde el tamaño total lo ingresamos nosotros a teclado
+	// crear un programa donde se almacenen numeros en un vector,donde el tamaï¿½o total lo ingresamos nosotros a teclado
 	// mostrar los elementos desp pero a la inversa 
 	
 	Definir numeroIngresado Como Entero
 	Definir tamanoVector Como Entero
 	
-	Escribir " le pido que me de un numero para el tamaño del vector "
+	Escribir " le pido que me de un numero para el tamano del vector "
 	Leer tamanoVector
 	
 	Dimensionar vectorNumeros(tamanoVector) 	

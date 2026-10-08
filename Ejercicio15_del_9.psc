@@ -1,5 +1,5 @@
 Algoritmo Ejercicio15_del_9
-	// diseñar un codigo donde se ingresen numeros aleatorios,(entre el rango 0 y 100)
+	// disenar un codigo donde se ingresen numeros aleatorios,(entre el rango 0 y 100)
 	// a una matriz,ingresar la cantidad de filas y la cantidad de columnas
 	// mostrar todos los elementos de la matriz,
 	// Mostrar tambien los valores numericos pares dentro de la matriz
